@@ -22,6 +22,7 @@ Handwriting recognition is one of the compelling research works going on because
 - [x] Project Design Phase 2
 - [x] Project Planning Phase
 - [x] Project Development Phase
+- [x] Final Deliverables
 - [x] Understanding the Data
 - [x] Model Building
 - [x] Application Building
